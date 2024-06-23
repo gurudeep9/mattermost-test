@@ -15,7 +15,7 @@
         "postinstall": "script/post_install.sh"
     },
     "dependencies": {
-        "@axe-core/playwright": "4.9.0",
+        "@axe-core/playwright": "4.9.1",
         "@percy/cli": "1.28.3",
         "@percy/playwright": "1.0.5",
         "@playwright/test": "1.43.1",
